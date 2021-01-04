@@ -15,5 +15,3 @@ if token:
 
 else:
    print ("Can't get token for", username)
-
-Test
